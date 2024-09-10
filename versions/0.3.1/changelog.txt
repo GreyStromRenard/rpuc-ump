@@ -1,0 +1,3 @@
+Changed
+
+- Export the options.txt file for better settings and keyboard shortcuts.

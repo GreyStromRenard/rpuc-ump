@@ -1,0 +1,37 @@
+Mods
+
++ Alternate Current - A mod that reduce the performance impact of redstone.
++ Modpack Update Checker - Check for updates.
++ DEUF Refabricated - Fix entities duplications.
++ Fabric Seasons - Add seasons and crops growing with their original characteristics.
++ Fabric Seasons: Delight Compat - Compatibility for Farmer's Delight crops.
++ Fabric Seasons: Terralith Compat - Compatibility for Terralith biomes.
++ TalkBubbles - Add bubbles on to of players heads when talking.
++ Cut Through - Using sword on a mod behind grass take damage.
++ Overflowing Bars - Add some visual effects for player experience.
++ Resource Pack Overrides - Add some visual effects for player experience.
++ Mindful Darkness - Add some visual effects for player experience.
++ Pick Up Notifier - Add some visual effects for player experience.
++ Air Hop - Add 3 jumps enchantement.
++ Comforts - Add sleeping bags and hammocks.
++ Item Highlighter - Add some visual effects for player experience.
++ Quartz Elevator - Add elevator.
++ Cultural Delights - Addons for Farmer's Delight, add foods.
++ Expanded Delight - Addons for Farmer's Delight, add foods.
++ Nethers Delight Refabricated - Addons for Farmer's Delight, add foods.
++ Easy Anvils - Upgrade player experience.
++ Easy Magic - Upgrade player experience.
++ Stoneworks - Add more stone variants.
++ NetherPortalFix - Fix portal default behaviour.
++ Controlling - Add a keybind search bar.
+
+Updated
+
++ Fzzy Config 0.4.0 > 0.4.1
++ ReplayMod 2.6.16 > 2.6.19
+
+Issues to be fixed
+
+- Crashes due to shaders or resource packs.
+- Crashes with no reports or logs available (mostly “key press” crashes).
+- Text disappears on hover (due to EMI).

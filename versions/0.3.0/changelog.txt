@@ -1,0 +1,8 @@
+Changed
+
+- Improved player experience by removing sounds and annoying object replacement messages.
+- Minimap radar changes as been applied, no more entites displayed (player's choice) and the info displayed too by removed coordinates (for streamhack) and replaced by the in-game hour and IRL hour.
+
+Server-side
+
++ Universal Shop - A mod that add craftables trade shops.

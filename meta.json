@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "0.4.0",
+        "releasedAt": 1726008756564,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/ulteam-modpack"
+            }
+        }
+    }
   ]
 }
