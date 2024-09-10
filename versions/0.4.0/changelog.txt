@@ -1,7 +1,7 @@
 Mods
 
 + Alternate Current - A mod that reduce the performance impact of redstone.
-+ Modpack Update Checker - Check for updates.
++ Modpack Update Checker - Check for modpacks updates.
 + DEUF Refabricated - Fix entities duplications.
 + Fabric Seasons - Add seasons and crops growing with their original characteristics.
 + Fabric Seasons: Delight Compat - Compatibility for Farmer's Delight crops.
